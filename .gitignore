@@ -1,3 +1,4 @@
 # Ignore these files
 *.log
 *.csv
+.ipynb_checkpoints/
