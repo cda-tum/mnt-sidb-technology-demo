@@ -22,6 +22,17 @@ The following gates are designed and analyzed:
 3. OR
 4. Fan-Out
 
+## Software Packages
+
+All SiDB software tools are seamlessly integrated within [_fiction_](https://github.com/cda-tum/fiction) and can be
+accessed via [PyPI](https://pypi.org/project/mnt.pyfiction/).
+
+```console
+(venv) $ pip install mnt.pyfiction
+```
+
+**Detailed documentation and examples are available at [ReadTheDocs](https://fiction.readthedocs.io/en/pyml/).**
+
 ## Repository Structure
 
 ```plaintext
@@ -34,13 +45,17 @@ The following gates are designed and analyzed:
      └── sidb_gate_designs_and_analysis.ipynb
 ```
 
+The SiDB gate designs and their corresponding analyses are showcased in the ``sidb_gate_designs_and_analysis.ipynb``
+notebook.
+
 ## Physical Simulation Parameters
 
 The SiDB gates are designed for the following physical parameters:
 
-* Charge-transition energy (μ<sub>-</sub>): -0.25 eV 
-* Relative Permittivity (ε<sub>r</sub>): 5.6 
+* Charge-transition energy (μ<sub>-</sub>): -0.25 eV
+* Relative Permittivity (ε<sub>r</sub>): 5.6
 * Thomas-Fermi screening length (λ<sub>tf</sub>): 5 nm
 
 However, due to a maximal Operational Domain, the gate may still work for different values in the
 experiment.
+
