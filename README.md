@@ -31,6 +31,11 @@ accessed via [PyPI](https://pypi.org/project/mnt.pyfiction/).
 (venv) $ pip install mnt.pyfiction
 ```
 
+You can then import the bindings in your Python project:
+```console
+from mnt.pyfiction import *
+```
+
 **Detailed documentation and examples are available at [ReadTheDocs](https://fiction.readthedocs.io/en/pyml/).**
 
 ## Repository Structure
