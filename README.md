@@ -1,4 +1,4 @@
-# SiDB Gate Design and Analysis for Quantum Silicon Inc. (QSi)
+# SiDB Gate Design and Analysis
 
 <p align="center">
   <picture>
@@ -68,5 +68,5 @@ The SiDB gates are designed for the following physical parameters:
 * Relative Permittivity (ε<sub>r</sub>): 5.6
 * Thomas-Fermi screening length (λ<sub>tf</sub>): 5 nm
 
-However, due to a maximal Operational Domain, it is likely that they might work at deviations from these parameters.
-
+However, we found their Operational Domains to be quite large; as such they might work at slight deviations from these
+parameters.
