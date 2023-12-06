@@ -4,13 +4,13 @@
     <program>
         <file_purpose>save</file_purpose>
         <version>0.3.3</version>
-        <date>2023-11-27 18:54:44</date>
+        <date>2023-12-05 12:31:27</date>
     </program>
     <!--GUI Flags-->
     <gui>
-        <zoom>0.033159</zoom>
-        <displayed_region x1="-148.376" y1="-42.5224" x2="271.42" y2="142.345"/>
-        <scroll x="-129" y="0"/>
+        <zoom>0.0304945</zoom>
+        <displayed_region x1="-171.506" y1="-49.1892" x2="297.431" y2="147.896"/>
+        <scroll x="-138" y="-511"/>
     </gui>
     <!--Layer Properties-->
     <!--Layer ID is intrinsic to the layer order-->
@@ -70,18 +70,35 @@
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="26" m="0" l="0"/>
+                <type>input</type>
                 <physloc x="99.84" y="0"/>
                 <color>#ffc8c8c8</color>
             </dbdot>
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="0" m="0" l="0"/>
+                <type>input</type>
                 <physloc x="0" y="0"/>
                 <color>#ffc8c8c8</color>
             </dbdot>
             <dbdot>
                 <layer_id>2</layer_id>
+                <latcoord n="2" m="1" l="0"/>
+                <type>input</type>
+                <physloc x="7.68" y="7.68"/>
+                <color>#ffc8c8c8</color>
+            </dbdot>
+            <dbdot>
+                <layer_id>2</layer_id>
+                <latcoord n="24" m="1" l="0"/>
+                <type>input</type>
+                <physloc x="92.16" y="7.68"/>
+                <color>#ffc8c8c8</color>
+            </dbdot>
+            <dbdot>
+                <layer_id>2</layer_id>
                 <latcoord n="20" m="14" l="0"/>
+                <type>output</type>
                 <physloc x="76.8" y="107.52"/>
                 <color>#ffc8c8c8</color>
             </dbdot>
@@ -112,6 +129,7 @@
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="18" m="13" l="0"/>
+                <type>output</type>
                 <physloc x="69.12" y="99.84"/>
                 <color>#ffc8c8c8</color>
             </dbdot>

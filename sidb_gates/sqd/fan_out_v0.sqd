@@ -58,7 +58,6 @@
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="17" m="10" l="1"/>
-                
                 <color>#ffc8c8c8</color>
             </dbdot>
             <dbdot>
@@ -82,19 +81,16 @@
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="13" m="10" l="1"/>
-                
                 <color>#ffc8c8c8</color>
             </dbdot>
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="13" m="5" l="0"/>
-                
                 <color>#ffc8c8c8</color>
             </dbdot>
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="9" m="10" l="1"/>
-                
                 <color>#ffc8c8c8</color>
             </dbdot>
             <dbdot>
@@ -106,13 +102,11 @@
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="2" m="15" l="0"/>
-                
                 <color>#ffc8c8c8</color>
             </dbdot>
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="24" m="15" l="0"/>
-                
                 <color>#ffc8c8c8</color>
             </dbdot>
             <dbdot>
@@ -130,13 +124,11 @@
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="6" m="2" l="0"/>
-                
                 <color>#ffc8c8c8</color>
             </dbdot>
             <dbdot>
                 <layer_id>2</layer_id>
                 <latcoord n="8" m="3" l="0"/>
-                
                 <color>#ffc8c8c8</color>
             </dbdot>
         </layer>
