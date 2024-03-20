@@ -2,3 +2,5 @@
 *.log
 *.csv
 .ipynb_checkpoints/
+.idea/
+.virtual_documents/
