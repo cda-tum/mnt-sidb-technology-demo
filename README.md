@@ -18,7 +18,7 @@ These gates adhere to
 the [Bestagon scheme](https://www.cda.cit.tum.de/files/eda/2022_dac_hexagons_are_the_bestagons.pdf), and their file
 format is `.sqd`, compatible with [_SiQAD_](https://github.com/siqad/siqad) for opening and further exploration.
 
-Comprehensive documentation on how to use all functions is available [here](https://fiction.readthedocs.io/en/latest/algorithms/sidb_simulation.html).
+Comprehensive documentation on how to use all pyfiction functions is available [here](https://fiction.readthedocs.io/en/latest/algorithms/sidb_simulation.html).
 
 ## Software Packages
 
