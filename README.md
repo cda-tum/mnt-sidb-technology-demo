@@ -7,21 +7,18 @@
   </picture>
 </p>
 
-This project introduces and analyzes SiDB gates designed using
+This project introduces SiDB gates that were designed using
 the [Exhaustive Gate Designer](https://www.cda.cit.tum.de/files/eda/2023_nanoarch_minimal_gate_design.pdf). The SiDB
-gates have been optimized with several metrics in mind, including Operational Domain, Population Stability, and Critical
-Temperature.
-
+gates have been optimized with several figures of merit in mind, including [Operational Domain](https://www.cda.cit.tum.de/files/eda/2023_nanoarch_reducing_the_complexity_of_operational_domain_computation_in_silicon_dangling_bond_logic.pdf), [Band Bending Resilience](https://www.cda.cit.tum.de/files/eda/2024_ieee_nano_figures_of_metrit.pdf), and [Critical Temperature](https://www.cda.cit.tum.de/files/eda/2023_ieeenano_temperature_behavior.pdf).
 The following gates are designed and analyzed:
 
-1. [AND](sidb_gates/sqd/and_v0.sqd)
-2. [Wire](sidb_gates/sqd/wire_v0.sqd)
-3. [OR](sidb_gates/sqd/or_v0.sqd)
-4. [Fan-Out](sidb_gates/sqd/fan_out_v0.sqd)
+``NOTE: For better visualization, change the notebook theme in settings from light to dark.``
 
 These gates adhere to
 the [Bestagon scheme](https://www.cda.cit.tum.de/files/eda/2022_dac_hexagons_are_the_bestagons.pdf), and their file
 format is `.sqd`, compatible with [_SiQAD_](https://github.com/siqad/siqad) for opening and further exploration.
+
+Comprehensive documentation on how to use all functions is available [here](https://fiction.readthedocs.io/en/latest/algorithms/sidb_simulation.html).
 
 ## Software Packages
 
