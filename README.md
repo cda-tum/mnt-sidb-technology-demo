@@ -1,4 +1,4 @@
-# SiDB Gate Design and Analysis
+# SiDB Simulation and Gate Design Demo
 
 <p align="center">
   <picture>
